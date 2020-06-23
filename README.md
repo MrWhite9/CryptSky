@@ -1,6 +1,6 @@
 # CryptSky
 
-CryptSky is an open source, fully python ransomware PoC. It's main purpose is
+CryptSky is an open source, fully python ransomware PoC. Its main purpose is
 not to be run like most software projects, but to be read for educational
 purposes.
 
@@ -14,7 +14,7 @@ the network defense and sysadmin communities.
 **Warning: This project is young and incomplete. It will encrypt and decrypt
 files. That's about it. No key generation, no sending the key back over a
 secure channel, no dropping new files or wallpapers or whatever. I'll get to
-that. Maybe. Open an issue if you so desire, pull requests welcome.**
+that. Maybe. Open an issue if you desire so much, pull requests welcome.**
 
 ## Why?
 
@@ -32,17 +32,17 @@ and what can be done to stop it, and an overall safer internet.
 But aren't you worried someone will abuse it for profit?
 
 - Not really. There are plenty of much better, more advanced ransomware out there.
- Even if they do, it's hopefully few compared to the good it will do.
+Even if they do, it's hopefully few compared to the good it will do.
 
-But when they do, it would be your fault!
+But if someone misuse this project, it would be your fault!
 
-- Nope! I only wrote it. I didnt deploy it, I didnt sell it, it's not my
-problem. Hopefully nobody uses it for evil but thats the price to be paid for
-good. There's always someone who will do it.
+- Nope! I only wrote it. I didnt deploy it, I didnt sell it, it's not my problem. 
+Hopefully nobody uses it for evil but that's the price to be paid for good. 
+There's always someone who will do it.
 
 But...
 
-- Alright. Bottom line. Security is a very reactive business. To make the
-world more secure you first have to make it less secure. To make better AV and
-signatures, you must first make better malware. And that's what we're doing
-here.
+- Alright. Bottom line. Security is a very reactive business.
+To make the world more secure you first have to make it less secure. 
+To make better AV and signatures, you must first make better malware. 
+And that's what we're doing here.
